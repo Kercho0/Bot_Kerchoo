@@ -1,0 +1,23 @@
+{
+  "name": "Bot_Kerchoo",
+  "version": "1.0.0",
+  "description": "I like Trains",
+  "main": "bot.js",
+  "author": "Arnaud Harmange",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.3.1",
+    "node-cron": "^2.0.3",
+    "node.js": "0.0.1-security",
+    "winston": "^3.3.3"
+  },
+  "engines": {
+    "node": "12.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "bot.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
